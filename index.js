@@ -1,3 +1,6 @@
 
 // Write your code here
-function 
+function multiply(num1,num2)
+{
+  
+}
