@@ -4,7 +4,5 @@ function nim1(num1,num2)
 {
   return num1*num2;
 }
-function random()
-{
- return Math.floor(Math.random()+1); 
-}
+
+ let random= Math.floor(Math.random()+1); 
